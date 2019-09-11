@@ -1,0 +1,31 @@
+{
+    "product": [
+        {
+            "name": "Cotton T-Shirt, Medium",
+            "price": 1.99,
+            "likedCount": 1,
+            "dislikedCount": 0,
+            "image": {
+                "url": "https://www.sunsilk.in/content/dam/unilever/sunsilk/india/general_image/hair_care/other_hair_care/ssk_india_header_home_2048x1000-768791.jpg"
+            }
+        },
+        {
+            "name": "Baseball Cap, One Size",
+            "price": 2.99,
+            "likedCount": 2,
+            "dislikedCount": 0,
+            "image": {
+                "url": "https://www.sunsilk.in/content/dam/unilever/sunsilk/india/general_image/hair_care/other_hair_care/ssk_india_header_home_2048x1000-768791.jpg"
+            }
+        },
+        {
+            "name": "Swim Shorts, Medium",
+            "price": 3.99,
+            "likedCount": 1,
+            "dislikedCount": 1,
+            "image": {
+                "url": "https://www.sunsilk.in/content/dam/unilever/sunsilk/india/general_image/hair_care/other_hair_care/ssk_india_header_home_2048x1000-768791.jpg"
+            }
+        }
+    ]
+}
